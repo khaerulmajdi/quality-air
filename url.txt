@@ -1,1 +1,1 @@
-quality-airgit-olanp35mfrpa7wzjngsrgq.streamlit.app
+https://quality-air.streamlit.app/
